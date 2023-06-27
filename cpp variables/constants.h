@@ -1,0 +1,8 @@
+//
+// Created by md on 6/27/23.
+//
+
+#ifndef CPP_LEARNING_CONSTANTS_H
+#define CPP_LEARNING_CONSTANTS_H
+
+#endif //CPP_LEARNING_CONSTANTS_H
